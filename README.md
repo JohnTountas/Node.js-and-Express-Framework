@@ -1,6 +1,6 @@
 # Node.js and Express Framework.
 
-Exercises for learning !!
+Practise for learning !!
 
 Here, there are a few examples like:
 
