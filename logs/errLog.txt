@@ -1,0 +1,28 @@
+20250328	19:29:11	d0ac2983-0c1d-442b-9dee-c4ccfa0455d4	SyntaxError: Expected ',' or '}' after property value in JSON at position 16 (line 1 column 17)
+20250328	19:29:17	0a1cfb98-401c-4fd5-8daf-a679293414be	SyntaxError: Unexpected token ',', ..."{ "user": , "pwd": ""... is not valid JSON
+20250330	19:04:00	e2f418de-14d6-4348-9872-1b80cb62f7b6	Error: Cannot set headers after they are sent to the client
+20250330	19:04:02	90c4b372-e63b-46f4-a286-7cc46bfc9f5f	Error: Cannot set headers after they are sent to the client
+20250330	19:04:02	ab9ee8a1-1b07-487b-be6a-71f9d8808953	Error: Cannot set headers after they are sent to the client
+20250330	19:04:03	4607f9be-d4be-476e-b5a5-82a440f726dd	Error: Cannot set headers after they are sent to the client
+20250330	19:04:03	46330d18-c2a6-429d-b92c-24eeec52bfe5	Error: Cannot set headers after they are sent to the client
+20250330	19:04:03	1a080507-eddd-4a9c-be6d-e772b4ddfc2c	Error: Cannot set headers after they are sent to the client
+20250330	19:05:26	528f6360-6f29-4c0b-8027-3434b1d5904c	TypeError: Cannot read properties of undefined (reading 'username')
+20250330	19:06:06	71261434-47fe-4743-8482-e596e8e26f52	TypeError: Cannot read properties of undefined (reading 'username')
+20250330	19:06:06	08d8fc39-2e37-4c64-a82b-45c45ac7cddf	TypeError: Cannot read properties of undefined (reading 'username')
+20250330	19:07:12	c39943f5-ac61-4ca1-b123-115f9491a163	Error: Cannot set headers after they are sent to the client
+20250330	21:47:18	51eeb26e-f52c-47f6-8443-04f688f7cd39	ReferenceError: roles is not defined
+20250330	21:54:53	2137dda1-7884-4a20-b2dd-e2fa4c1d4aa3	ReferenceError: roles is not defined
+20250330	21:57:52	1d1c3556-9fcc-4c99-afb9-5da3504dceb0	ReferenceError: roles is not defined
+20250330	21:59:22	2aa92239-3409-4e85-907f-4dcec83d02c3	ReferenceError: roles is not defined
+20250330	22:00:08	aa6f9fcd-74f0-41eb-9c1f-569e471e4968	ReferenceError: roles is not defined
+20250331	20:45:00	e37c35f6-baca-4496-9c7a-da12564ecbe2	ReferenceError: roles is not defined
+20250401	22:14:55	37785796-3fb3-4ea8-8d94-f590024f296a	Error: Cannot set headers after they are sent to the client
+20250401	22:15:50	a2ded177-9d1c-40f4-8c01-2a2457d80c4b	Error: Cannot set headers after they are sent to the client
+20250401	22:17:47	159527fc-1783-4ecd-a22c-4890bfe90cbb	Error: Cannot set headers after they are sent to the client
+20250401	22:20:27	6acb06bc-ec32-4383-a42f-2f446dd13fa4	Error: Cannot set headers after they are sent to the client
+20250401	22:21:54	327e0d31-48ad-4031-9ef2-0d7e2fa607bd	Error: Cannot set headers after they are sent to the client
+20250401	22:24:43	70743870-ad17-4653-9ba3-091daea74265	TypeError: Cannot read properties of undefined (reading 'json')
+20250401	22:28:54	6afc4d24-9e8f-4cc1-be71-b9c60bb4d64e	TypeError: res.Status is not a function
+20250401	22:34:38	6ec083af-3589-425e-b3e8-9e0970053688	TypeError: res.Status is not a function
+20250401	22:35:26	a028d6bf-d696-4adb-b5e8-448eb1234b55	Error: Cannot set headers after they are sent to the client
+20250401	22:35:47	da279410-51ea-4d7b-8754-44a995725285	TypeError: res.Status is not a function
