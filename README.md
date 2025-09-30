@@ -1,8 +1,8 @@
 ## Node.js and Express Framework.
 
-### Practise for learning !!
+#### Practice for learning !!
 
-### Here, there are a few examples like:
+#### Here, there are a few examples like:
 
 #### 1. Routes and Middleware
 
